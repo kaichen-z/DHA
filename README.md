@@ -12,7 +12,7 @@ end-to-end manner without retraining.
 
 🌟 ***Findings***: Demonstrate the advantages of doing joint-training over optimizing each AutoML component in sequence
 
-## 💾 juDataset Preparation
+## 💾 Dataset Preparation
 [[Cifar10](https://www.cs.toronto.edu/~kriz/cifar.html)]
 [[Cifar100](https://www.cs.toronto.edu/~kriz/cifar.html)]
 [[IMAGENET](https://image-net.org/download.php)]
